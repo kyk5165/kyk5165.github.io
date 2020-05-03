@@ -3,7 +3,7 @@ body {
     font-family: "Nanum Gothic Coding", monospace;
 }
 .container{
-    background-image: image("img/test.png");
+    background-image: url("img/test.png");
     width: 100%;
     height: 100%;
 }

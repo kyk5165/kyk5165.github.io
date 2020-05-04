@@ -43,3 +43,7 @@ body {
     animation: fadeIn .5s linear;
 }
 
+.addBanner{
+    width: 320px;
+    margin: 0 auto;
+}

@@ -44,6 +44,11 @@ body {
 }
 
 .addBanner{
+    background-color: black;
     width: 320px;
-    margin: 0 auto;
+    height: 100px;
+    position: absolute;;
+    left:50%;
+    bottom:0px;
+    transform: translate(-50%);
 }
